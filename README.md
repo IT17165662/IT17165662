@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Revathy T.IT17165662
+Revathy T.IT17165662
 
 <!---
 IT17165662/IT17165662 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
