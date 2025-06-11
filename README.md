@@ -1,6 +1,7 @@
-Revathy T.IT17165662
+Revathy Thillainathan
 
-<!---
-IT17165662/IT17165662 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+- **Programming Languages:** Java
+- **Testing Tools:** Selenium, Appium
+- **Automation Frameworks:** TestNG, JUnit
+- **Version Control:** Git, GitHub
